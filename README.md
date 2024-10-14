@@ -11,6 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Product Portal Integrations 2: Helm](https://medium.com/conveyordata/data-product-portal-integrations-2-helm-982f4a54c0f0?source=rss-fd70f8880065------2)
+- [Data Product Portal Integrations 1: OIDC](https://medium.com/conveyordata/data-product-portal-integrations-1-oidc-8d1dcdc0896e?source=rss-fd70f8880065------2)
+- [Demystifying Device Flow](https://medium.com/datamindedbe/demystifying-device-flow-ae15854bac24?source=rss-fd70f8880065------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
